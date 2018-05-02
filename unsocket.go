@@ -31,8 +31,6 @@ var (
 	MAXCLIENTS = 2
 	//max idmessage length ( change for extra guarantee of not repeating )
 	MAXSIZE_IDMESSAGE = 10
-	//crypto key, change to anything of length 32 or 256 bytes
-	key = `5991A1AEFC438519EDFC5ED1A41A6&11`
 
 	TIMEOUTRESPONSE = 5 * time.Minute
 )
