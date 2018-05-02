@@ -10,7 +10,7 @@ import (
 	"time"
 	"encoding/json"
 	"sync"
-	internal "unsocket/internal"
+	internal "github.com/gslezynger/unsocket/internal"
 )
 
 
