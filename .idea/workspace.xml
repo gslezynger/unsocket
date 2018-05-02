@@ -17,7 +17,7 @@
       <file leaf-file-name="crypto.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internal/crypto.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="15">
               <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="9" />
               <folding />
             </state>
@@ -27,8 +27,8 @@
       <file leaf-file-name="unsocket.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unsocket.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="901">
+              <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
               <folding>
                 <element signature="e#19#163#0" expanded="true" />
               </folding>
@@ -40,10 +40,11 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+              <first_editor relative-caret-position="1110">
+                <caret line="74" column="16" lean-forward="true" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
                 <folding>
-                  <marker date="1525292171380" expanded="true" signature="2404:2448" ph="/.../" />
+                  <marker date="1525293881929" expanded="true" signature="702:776" ph="/.../" />
+                  <marker date="1525293881929" expanded="true" signature="702:800" ph="/.../" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -179,7 +180,8 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1525292171380" expanded="true" signature="2404:2448" ph="/.../" />
+              <marker date="1525293881929" expanded="true" signature="702:776" ph="/.../" />
+              <marker date="1525293881929" expanded="true" signature="702:800" ph="/.../" />
             </folding>
           </first_editor>
           <second_editor />
@@ -234,7 +236,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/crypto.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="15">
           <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="9" />
           <folding />
         </state>
@@ -242,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unsocket.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="901">
+          <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
           <folding>
             <element signature="e#19#163#0" expanded="true" />
           </folding>
@@ -255,16 +257,18 @@
         <state relative-caret-position="2130">
           <caret line="142" column="70" lean-forward="false" selection-start-line="142" selection-start-column="70" selection-end-line="142" selection-end-column="70" />
           <folding>
-            <marker date="1525292171380" expanded="true" signature="2404:2448" ph="/.../" />
+            <marker date="1525293881929" expanded="true" signature="702:776" ph="/.../" />
+            <marker date="1525293881929" expanded="true" signature="702:800" ph="/.../" />
           </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <first_editor relative-caret-position="1110">
+            <caret line="74" column="16" lean-forward="true" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
             <folding>
-              <marker date="1525292171380" expanded="true" signature="2404:2448" ph="/.../" />
+              <marker date="1525293881929" expanded="true" signature="702:776" ph="/.../" />
+              <marker date="1525293881929" expanded="true" signature="702:800" ph="/.../" />
             </folding>
           </first_editor>
           <second_editor />
